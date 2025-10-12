@@ -15,7 +15,8 @@ Before writing code, I asked:
 2. Can numbers be negative?
 3. Should we change the input array or leave it as is?
 4. What should we return if the array is empty or has only one number?
-5. Do we have to worry about memory limits?
+
+I like to solve this problems as if I am in an interview.
 
 ---
 

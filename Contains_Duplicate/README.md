@@ -1,4 +1,4 @@
-# 🧠 NeetCode 150 - Contains Duplicate  
+# NeetCode 150 - Contains Duplicate  
  Difficulty: Easy  
  **Topics:** Arrays | Hashing | Sorting  
 
